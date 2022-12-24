@@ -15,3 +15,7 @@
 - [x] neighbors()
 - [x] neighbor() Check if two vertices are neighbor
 - [x] printGraph()
+
+## Output Image
+
+![Output Image](/image/OP.png)
